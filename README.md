@@ -1,4 +1,4 @@
-$$\newcommand{\hola{sqrt[2]{a} = b}$$
+$$\newcommand{\hola}{\sqrt[2]{a} = b}$$
 
 
 $$x \in \mathcal{N}$$
