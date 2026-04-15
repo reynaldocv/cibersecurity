@@ -22,10 +22,10 @@
     {% assign uniqueChapters = stack | uniq %}
 
     {% for chapter in uniqueChapters %}
-      <a onclick="myAccFunc('{{forloop.index}}')" href="javascript:void(0)" class="w3-button w3-block w3-left-align" id="myBtn">
+      <a onclick="myAccFunc('{{chapter}}')" href="javascript:void(0)" class="w3-button w3-block w3-left-align" id="myBtn">
         {{ chapter }} <i class="fa fa-caret-down"></i>
       </a>
-        <div id="demoAcc-{{ forloop.index }}" class="w3-bar-block w3-hide w3-padding-large w3-small">
+        <div id="demoAcc-{{chapter}}" class="w3-bar-block w3-hide w3-padding-large w3-small">
           {% for item in site.chapters %}
             {% for tag in item.chapter %}
               {% if tag == chapter %}
