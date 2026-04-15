@@ -1,4 +1,4 @@
-$$\newcommand{\hola}{\sqrt[2]{a} = b}$$
+$$ \newcommand{\hola}[1]{\sqrt[2]{a} = #1} $$
 
 
 $$x \in \mathcal{N}$$
@@ -13,4 +13,4 @@ graph TD;
     C-->D;
 ```
 
-$$\hola$$
+$$ \hola = 2 $$
