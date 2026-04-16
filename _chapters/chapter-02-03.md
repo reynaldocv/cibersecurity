@@ -2,6 +2,7 @@
 layout: home
 chapter: "Personal Cybersecurity"
 section: "Personal"
+permalink: "chapter-02-03/"
 
 sort_by_number: 1 
 ---
