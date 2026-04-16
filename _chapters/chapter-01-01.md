@@ -5,58 +5,25 @@ section: "Cybersecurity?"
 permalink: "chapter-01-01/"
 ---
 
-$$ \newcommand{hola}[1]{\sqrt[2]{a} = 2} $$
+$$\newcommand{\cibersecurity}{\color{blue}{\mathbb{cybersecurity}}}$$
+
+### What Exactly Is Cybersecurity?
+
+#### Cybersecurity Means Different Things to Different Folks
 
 
 
-$$x \in \mathcal{N}$$
+| **individuals**                       | $$\cibersecurity$$ means that their personal data is not accessible to anyone other than themselves and others they have authorized, and that their computing devices work properly and are free from malware. |
+| **small business owners**             | $$\cibersecurity$$ may include ensuring that credit card data is properly protected and that standards for data security are properly implemented at point-of-sale registers.  |
+| **firms conducting online business**  | $$\cibersecurity$$ may include protecting servers that untrusted outsiders regularly interact with.  |
+| **shared service providers**          | $$\cibersecurity$$ may entail protecting numerous data centers that house numerous servers that, in turn, host many virtual servers belonging to many different organizations.  |
+| **the government**                     | $$\cibersecurity$$ may include establishing different classifications of data, each with its own set of related laws, policies, procedures, and technologies.             |
 
-Here is a simple flow chart:
-
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
-
-$$ \hola = 2 $$
-
-    [!WARNING]
-    hoLA COMO VAS
-
-
-<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:svg="http://www.w3.org/2000/svg" xml:lang="en">
-<head>
-<title>Chapter 1 What Exactly Is Cybersecurity?</title>
-<link href="template.css" rel="stylesheet" type="text/css"/>
-<meta content="urn:uuid:c1f85a0d-87b9-474e-af0f-0edad8642f49" name="Adept.expected.resource"/>
-</head>
-<body epub:type="bodymatter" id="c01-body-0001">
-<section aria-labelledby="a1" epub:type="chapter" role="doc-chapter">
-<p class="Chap--"><span aria-label="7" epub:type="pagebreak" id="Page_7" role="doc-pagebreak"/>Chapter 1</p>
-<h1 class="Chap-Title" id="a1">What Exactly Is Cybersecurity?</h1>
-<section aria-label="chapter opening"><span id="c01-sec-0001"/><span class="Normal" id="c01-para-0001"/><span id="c01-feafxd-0001"/>
-<p class="Intro-Head">IN THIS CHAPTER</p>
-<p class="Intro-Text"><img alt="Bullet" src="images/check.png"/> <b> Understanding the difference between cybersecurity and information security</b></p>
-<p class="Intro-Text"><img alt="Bullet" src="images/check.png"/> <b> Showing why cybersecurity is a constantly moving target</b></p>
-<p class="Intro-Text"><img alt="Bullet" src="images/check.png"/> <b> Understanding the goals of cybersecurity</b></p>
-<p class="Intro-Text"><img alt="Bullet" src="images/check.png"/> <b> Looking at the risks mitigated by cybersecurity</b></p>
-<p class="Intro-Last"/>
-<p class="Normal" id="c01-para-0003">To improve your ability to keep yourself and your loved ones cybersecure, you need to understand what cybersecure means, what your goals should be vis-à-vis cybersecurity, and what exactly you’re securing against.</p>
-<p class="Normal" id="c01-para-0004">While the answers to these questions may initially seem simple and straightforward, they aren’t. As you see in this chapter, these answers can vary dramatically between people, company divisions, organizations, and even within the same entity at different times.</p>
-</section>
-<section aria-labelledby="h2-1"><span id="c01-sec-0002"/>
-<h2 class="Heading-1" id="h2-1">Cybersecurity Means Different Things to Different Folks</h2>
-<p class="Normal" id="c01-para-0005">While <em>cybersecurity</em> may sound like a simple enough term to define, in actuality, from a practical standpoint, it means quite different things to different people in different situations, leading to extremely varied relevant policies, procedures, and <span aria-label="8" epub:type="pagebreak" id="Page_8" role="doc-pagebreak"/>practices. Individuals who want to protect their social media accounts from hacker takeovers, for example, are exceedingly unlikely to assume many of the approaches and technologies used by Pentagon workers to secure classified networks.</p>
-<p class="Normal" id="c01-para-0006">Typically, for example: </p>
-<ul class="check" id="c01-list-0002">
-<li id="c01-li-0005">For <b>individuals,</b> <em>cybersecurity</em> means that their personal data is not accessible to anyone other than themselves and others they have authorized, and that their computing devices work properly and are free from malware.</li>
-<li id="c01-li-0006">For <b>small business owners,</b> <em>cybersecurity</em> may include ensuring that credit card data is properly protected and that standards for data security are properly implemented at point-of-sale registers.</li>
-<li id="c01-li-0007">For <b>firms conducting online business,</b> <em>cybersecurity</em> may include protecting servers that untrusted outsiders regularly interact with.</li>
-<li id="c01-li-0008">For <b>shared service providers,</b> <em>cybersecurity</em> may entail protecting numerous data centers that house numerous servers that, in turn, host many virtual servers belonging to many different organizations.</li>
-<li id="c01-li-0009">For <b>the government,</b> <em>cybersecurity</em> may include establishing different classifications of data, each with its own set of related laws, policies, procedures, and technologies.</li>
+|| |
+- , </li>
+<li id="c01-li-0007">For <b></b> <em></li>
+<li id="c01-li-0008">For <b>,</b> <em></li>
+<li id="c01-li-0009">For <b>,</b> <em>cybersecurity</em> may include establishing different classifications of data, each with its own set of related laws, policies, procedures, and technologies.</li>
 </ul>
 <p class="Normal-w-icon" id="c01-para-0007"><img alt="Remember" src="images/remember.png"/> The bottom line is that while the word cybersecurity is easy to define, the practical expectations that enters people’s minds when they hear the word vary quite a bit.</p>
 <p class="Normal" id="c01-para-0008">Technically speaking, cybersecurity is the subset of information security that addresses information and information systems that store and process data in electronic form, whereas <em>information security</em> encompasses the security of all forms of data (for example, securing a paper file and a filing cabinet).</p>
